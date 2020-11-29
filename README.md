@@ -2,9 +2,13 @@
 
 ![demo](https://github.com/infinityglow/COMP90054-Pacman-Contest-Project/blob/master/images/mcts-eat-food.gif)
 
+## Overview
+
 We implemented a pacman agent in the contest of COMP90054 in University of Melbourne, 2020 S2.
 
 We achieved the highest rank of 8/89 during the development of this project.
+
+## Strategies and Techniques
 
 The following techniques and strategies are employed:
 
@@ -19,11 +23,11 @@ We use a rule-based decision tree to specify which strategy and action to take i
 
 ![decision tree](https://github.com/infinityglow/COMP90054-Pacman-Contest-Project/blob/master/images/ChooseActionStrategy.jpg)
 
-Videos Presentation (YouTube):
+## Videos Presentation (YouTube):
 
 [![demo](https://github.com/infinityglow/COMP90054-Pacman-Contest-Project/blob/master/images/video.png)](https://www.youtube.com/watch?v=rWVaEUSTs_I&feature=youtu.be)
 
-Wiki:
+## Wiki:
 
 [Wiki page](https://github.com/infinityglow/COMP90054-Pacman-Contest-Project/wiki)
 
