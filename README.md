@@ -10,7 +10,7 @@ We achieved the highest rank of 8/89 during the development of this project.
 
 ## Strategies and Techniques
 
-The following techniques and strategies are employed:
+The following strategies and techniques are employed:
 
 - Breadth first search algorithm for defensive agent.
 - Monte Carlo tree search and Minimax strategy for offensive agent to eat food and dodge enemy ghosts.
