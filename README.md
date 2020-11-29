@@ -23,7 +23,7 @@ We use a rule-based decision tree to specify which strategy and action to take i
 
 ![decision tree](https://github.com/infinityglow/COMP90054-Pacman-Contest-Project/blob/master/images/ChooseActionStrategy.jpg)
 
-## Videos Presentation (YouTube):
+## Video Presentation (YouTube):
 
 [![demo](https://github.com/infinityglow/COMP90054-Pacman-Contest-Project/blob/master/images/youtube.png)](https://www.youtube.com/watch?v=rWVaEUSTs_I&feature=youtu.be)
 
