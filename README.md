@@ -14,7 +14,7 @@ The following techniques and strategies are employed:
 
 - Breadth first search algorithm for defensive agent.
 - Monte Carlo tree search and Minimax strategy for offensive agent to eat food and dodge enemy ghosts.
-- A* heuristic algorithm for offensive agent to go home.
+- A* heuristic search algorithm for offensive agent to go home.
 - Change attack point techniques.
 - Dead-end detection strategy.
 - Prioritize actions (eat food, eat capsule, dodge enemy, go home) taken dynamically.
