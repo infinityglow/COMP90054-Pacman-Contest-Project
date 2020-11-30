@@ -32,6 +32,6 @@ We use a rule-based decision tree to specify which strategy and action to take i
 [Wiki page](https://github.com/infinityglow/COMP90054-Pacman-Contest-Project/wiki)
 
 
-### Acknowledgements
+## Acknowledgements
 
 This is [Pacman Capture the Flag Contest](http://ai.berkeley.edu/contest.html) from the set of [UC Pacman Projects](http://ai.berkeley.edu/project_overview.html).  We are very grateful to UC Berkeley CS188 for developing and sharing their system with us for teaching and learning purposes as well as Nir Lipovetzky and Guang Hu who adapted this code collection.
