@@ -1,6 +1,6 @@
 # COMP90054 Pacman Contest Project Team Alpha
 
-![demo](https://github.com/infinityglow/COMP90054-Pacman-Contest-Project/blob/master/images/mcts-eat-food.gif)
+![demo](https://github.com/infinityglow/COMP90054-Pacman-Contest-Project/blob/master/images/mcts.gif)
 
 ## Overview
 
