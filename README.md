@@ -6,7 +6,7 @@
 
 We implemented two pacman agents (one for defense and one for offense) in the contest of COMP90054 in University of Melbourne, 2020 S2.
 
-We achieved the highest rank of 8/89 during the development of this project.
+We achieved the highest rank of 8/88 during the development of this project.
 
 ## Strategies and Techniques
 
