@@ -19,7 +19,7 @@ The following strategies and techniques are employed:
 - Dead-end detection strategy.
 - Prioritize actions (eat food, eat capsule, dodge enemy, go home) taken dynamically.
 
-We use a rule-based decision tree to specify which strategy and action to take in which situation.
+We used a rule-based decision tree to specify which strategy and action to take in which situation.
 
 ![decision tree](https://github.com/infinityglow/COMP90054-Pacman-Contest-Project/blob/master/images/ChooseActionStrategy.jpg)
 
